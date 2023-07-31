@@ -20,7 +20,7 @@ You can modify the server's behavior and settings by adjusting the configuration
 
 ### Logging
 
-The server application uses Serilog along with Graylog for enhanced logging capabilities. The logging configuration can be customized in the `appsettings.json` file. By default, logs will be sent to a Graylog server for centralized log management.
+The server application uses Serilog along with Graylog for enhanced logging capabilities. The logging configuration can be customized in the `appsettings.json` file. By default Graylog is disabled.
 
 ## 2) NamedPipesClient
 
